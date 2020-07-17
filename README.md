@@ -1,6 +1,7 @@
 # megumiclash
 使用方法：
 转换网站：https://gfwsb.114514.best/
+本地转换：https://github.com/tindy2013/subconverter
 远程配置设置为：https://raw.githubusercontent.com/MegumiUUU/megumiclash/master/profile.ini
 
 部分语法：
