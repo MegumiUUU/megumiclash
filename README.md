@@ -9,6 +9,8 @@
 
 开启上面的应用后使用：http://127.0.0.1:25500/sub?target=clash&url=本地文件路径&config=https%3A%2F%2Fraw.githubusercontent.com%2FMegumiUUU%2Fmegumiclash%2Fmaster%2Fprofile.ini&emoji=true&list=false&sort=false&udp=false&tfo=false&scv=false&append_type=false&fdn=true&new_name=true
 
+本地路径不需要url-encode，但是要求纯英文路径
+
 
 部分语法：
 surge_ruleset=分组,规则集链接
