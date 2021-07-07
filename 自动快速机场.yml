@@ -98,7 +98,7 @@ proxy-groups:
   - name: 🇭🇰港台
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 600
+    interval: 60
     proxies:
       - 🇨🇳 【直连】TWN/台湾 A
       - 🇨🇳 【直连】TWN/台湾 B
@@ -146,7 +146,7 @@ proxy-groups:
   - name: 🇺🇲美日
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 600
+    interval: 60
     proxies:
       - 🇯🇵 【中转】JPN/日本 A-天津电信
       - 🇯🇵 【中转】JPN/日本 A-宁波电信
@@ -169,7 +169,7 @@ proxy-groups:
   - name: 🇺🇳其他
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 600
+    interval: 60
     proxies:
       - 🇹🇷 【直连】TUR/土耳其
   - name: 🌞手动选择
